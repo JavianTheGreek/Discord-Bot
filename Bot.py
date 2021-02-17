@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # Import Token from discord..
-discordPass = 'NjE4MjA2MTY1OTY4NDg2NTc3.XW2TWw.KdMmfU49EZoHpxVRmDpTxZYj3to'
+discordPass = ''
 
 # Commands prefic inwhich the bot responses to..
 client = commands.Bot(command_prefix='x')
