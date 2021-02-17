@@ -1,5 +1,5 @@
 # Discord-Bot
-This is my first time coding a bot with python, I am learning as I go and adding my special characters to it.
+A simple Discord bot that **To be continued**
 
 # Commands Prefix for bot
 *command - !!
