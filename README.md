@@ -6,6 +6,10 @@ A simple Discord bot that **To be continued**
 
 # Features:
 <p>
-  The bot is mainly use for checking messages in discord and Muting Words
-  
+  This bot can do:
+  <br>-Mute
+  <br>-Ban/Unban
+  <br>-Rules
+  <br>-Role
+  <br>-
   </p>
