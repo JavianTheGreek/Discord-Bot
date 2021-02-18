@@ -5,11 +5,16 @@ A simple Discord bot that **To be continued**
 *command - !!
 
 # Features:
-<p>
-  This bot can do:
-  <br>-Mute
-  <br>-Ban/Unban
-  <br>-Rules
-  <br>-Role
-  <br>-
-  </p>
+| Commands   | Description|
+|----------- |----------- |
+| Mute       |!!m         |
+| Ban/Unban  |!!b / !!ub  |
+| Rules      |!!r         |
+| Role       |            |
+
+
+# TO DO
+- [ ] Add role to bot
+- [ ] Add link after kicking/banning
+- [ ] Auto Mod
+- [ ] Add mod log for clear chat
