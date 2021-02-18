@@ -15,7 +15,9 @@ async def on_ready():
 @client.event
 async def on_message(msg):
     if msg.content.find('Hello') != -1:
-        await msg.channel.send('Wassup G')
+        await msg.channel.send('Hi,')
+    # Without this the code won't work...
+    await client.process_commands(msg)
         
 
 client.run(discordPass)
