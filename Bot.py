@@ -68,6 +68,25 @@ async def unban(txt, *, member):
     await txt.send(member + " was not found")
 
 
+@client.command(aliases['m'])
+@commands.has.permissons(kick_members=True)
+async def mute(txt, member : discord.Member):
+    muted_role = txt.guild(The muted role you created)
+    
+    await member.add_role(muted_role)
+    await txt.send(member.mention + " Has been muted")
+    
+    
+@client.command(aliases['um'])
+@commands.has.permissons(kick_members=True)
+async def unmute(txt, member : discord.Member):
+    muted_role = txt.guild(The muted role you created)
+    
+    await member.remove.role(muted_role)
+    await txt.send(member.mention + " Has been unmuted!!!!")
+    
+    
+    
 # client = BotClient()
 client.run(discordPass)
 
