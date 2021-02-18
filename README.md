@@ -14,7 +14,7 @@ A simple Discord bot that **To be continued**
 
 
 # TO DO
-- [x] Add role to bot
+- [ ] Add role to bot
 - [ ] Add link after kicking/banning
 - [ ] Auto Mod
 - [ ] Add mod log for clear chat
