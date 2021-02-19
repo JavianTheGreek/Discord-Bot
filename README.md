@@ -1,10 +1,12 @@
 # Discord-Bot
 A simple Discord bot that **To be continued**
 
-# Commands Prefix for bot
+## Installation of Libraries
+
+## Commands Prefix for bot
 *command - !!
 
-# Features:
+## Features:
 | Commands   | Description|
 |----------- |----------- |
 | Mute       |!!m         |
@@ -13,7 +15,7 @@ A simple Discord bot that **To be continued**
 | Role       |            |
 
 
-# TO DO
+## TO DO
 - [ ] Add role to bot
 - [ ] Add link after kicking/banning
 - [ ] Auto Mod
